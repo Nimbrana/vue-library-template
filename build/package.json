@@ -1,5 +1,5 @@
 {
-  "name": "avue-template",
+  "name": "vue-library-template",
   "version": "0.1.0",
   "private": true,
   "module": "./dist/HelloWorld.js",
